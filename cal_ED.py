@@ -2,7 +2,7 @@
 To calculate the damage energy (ED) using the Lindhard method for a given recoil energy of a primary knock-on atom (PKA).
 ref: 
 1. Gary Was, Fundamentals of Radiation Materials Science, p90-91
-2. M.J. Norgett et al, Method of calculatitig displacement dose fates
+2. M.J. Norgett et al, Method of calculatitig displacement dose rates
 3. M.T. Robinson, THE ENERGY DEPENDENCE OF NEUTRON RADIATION DAMAGE IN SOLIDS
 '''
 import math
